@@ -1,23 +1,18 @@
 # Devlog #1
 
-*Published: 2024-08-20*  
+*Published: 2024-08-16*  
 *Author: TheHaloDeveloper*
 
 ---
 
-## Completions
-Today I started by creating the tower completions table! It's currently very long and tends to flow over the page, so I'll need to add a scrollbar to it later. Since mini towers don't give tower points, they show up as "-" for the tower number. This lets you guys track mini towers and other misc. completions without interfering with the main game!
+After seeing lot's of complaints in the community about [jtoh.info](https://jtoh.info/) not working anymore, I decided to build a better solution for the community myself. My goal is to improve the core idea in all aspects that I can, so [jtoh.info](https://jtoh.info/) becomes irrelevant 😁. Let's see where this goes!
 
-!asset completionstable.mp4
+## Data Collection
+I spent most of the day today writing a scraper script to get area and tower info from the [JToH Wiki](https://jtoh.fandom.com/). The creator of the old website had to update tower info manually when something changed, which made update times very slow. This new script enables much faster updates on tower info, so things can remain up-to-date.
 
-## Filters
-I also wanted to add filters to display "jumps" (new hardest towers), tower types (such as steeple, tower, citadel), and more. I started with jumps, and got it working:
+At the end of the day, the scraper was finished:
 
-!asset jumpsonlyfilter.png
+!asset scraper.mp4
 
-After more work, I was able to successfully get many more filters ready and working:
-- World Selection
-- Tower Type
-- Tower Difficulty
-
-!asset allfilters.mp4
+## Plans
+Tommorow I hope to work on checking badge data to view a player's completed towers. Thank you to everyone who provided feedback today!
