@@ -21,6 +21,8 @@ I finished full area and tower tables as well, with the following features:
 
 !asset tables.mp4
 
+As you can see, local support for Pit of Misery exists as well, allowing users to track completions on their own, since these towers do not have badges to track.
+
 ## Optimizations
 The badge checking algorithm was heavily optimized, and I was able to get around the ratelimiting issue from yesterday by rotating IP addresses, making the badge system *much* faster!
 
