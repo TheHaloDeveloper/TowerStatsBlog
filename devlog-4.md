@@ -20,4 +20,4 @@ With this data, I can now display both **area unlock progress** and **difficulty
 !asset stats.mp4  
 
 ## Plans
-Tomorrow, I’ll work on adding a **Completed Towers** section, along with more stats and sections to give players even more info. Progress is going great, and I think a **beta release could be ready within a week**.
+Tomorrow, I'll work on adding a **Completed Towers** section, along with more stats and sections to give players even more info. Progress is going great, and I think a **beta release could be ready within a week**.
