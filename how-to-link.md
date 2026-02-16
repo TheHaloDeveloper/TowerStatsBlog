@@ -35,6 +35,6 @@
 
 !asset success.png
 
-*If you do not get that response, please make sure you followed all the previous steps correctly.**
+*If you do not get that response, please make sure you followed all the previous steps correctly.*
 
-Can't figure it out? Create a ticket in the Discord server and ask for help! *Note that we cannot complete the process for you.*
+Can't figure it out? Create a ticket in the Discord server and ask for help! *Note that we cannot complete this process for you.*
